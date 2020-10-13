@@ -4,10 +4,10 @@
 
 A recent graduate of the software engineering program at the Flatiron School of Denver. I'm currently working on refining and expanding my skill-sets involving frameworks such as React, Vue.js, and Flutter. 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: VUE JS / REACT / JS / HTML / CSS / Flutter
 
 - 🔭 I’m currently working on my personal portfolio website 
-- 🌱 I’m currently learning Vue.js 
+- 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on Flutter projects 
 - 📫 How to reach me: reneavila1993@gmail.com 
 - ⚡ Fun fact: I have a passion for Star Wars.  
