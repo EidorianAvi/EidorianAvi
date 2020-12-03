@@ -2,13 +2,13 @@
 #### Full-Stack Software Engineer
 ![Full-Stack Software Engineer](https://pbs.twimg.com/profile_banners/1298728283165491200/1599600655/1500x500)
 
-A recent graduate of the software engineering program at the Flatiron School of Denver. I'm currently working on refining and expanding my skill-sets involving frameworks such as React, Vue.js, and Flutter. 
+A graduate of the software engineering program at the Flatiron School of Denver. I'm currently working on refining and expanding my skill-sets involving frameworks such as React, Vue.js, and Flutter. 
 
 Skills: VUE JS / REACT / JS / HTML / CSS / Flutter
 
-- 🔭 I’m currently working on my personal portfolio website 
-- 🌱 I’m currently learning React Native 
-- 👯 I’m looking to collaborate on Flutter projects 
+- 🔭 I’m currently working on building a MERN application.
+- 🌱 I’m currently learning Node.js. 
+- 👯 I’m looking to collaborate on anything at the moment. 
 - 📫 How to reach me: reneavila1993@gmail.com 
 - ⚡ Fun fact: I have a passion for Star Wars.  
 
