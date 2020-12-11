@@ -2,9 +2,9 @@
 #### Full-Stack Software Engineer
 ![Full-Stack Software Engineer](https://pbs.twimg.com/profile_banners/1298728283165491200/1599600655/1500x500)
 
-A graduate of the software engineering program at the Flatiron School of Denver. I'm currently working on refining and expanding my skill-sets involving frameworks such as React, Vue.js, and Flutter. 
+A graduate of the software engineering program at the Flatiron School of Denver. I'm currently working on refining and expanding my skill-sets involving frameworks such as React, Vue.js, and Flutter. I'm always looking to connect and converse on all things code.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / Flutter
+Skills: VUE JS / REACT / JS / HTML / CSS / Flutter / Ruby / Rails/ Node.js/ Express.js/ MongoDB/ Firebase
 
 - 🔭 I’m currently working on building a MERN application.
 - 🌱 I’m currently learning Node.js. 
