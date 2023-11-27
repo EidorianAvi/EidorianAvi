@@ -1,13 +1,12 @@
 ### Hi there 👋, my name is Adrian
 #### Full-Stack Software Engineer
-![Full-Stack Software Engineer](https://pbs.twimg.com/profile_banners/1298728283165491200/1599600655/1500x500)
 
-A graduate of the software engineering program at the Flatiron School of Denver. I'm currently working on refining and expanding my skill-sets involving frameworks such as React, Vue.js, and Flutter. I'm always looking to connect and converse on all things code.
+Software engineer with experience working on backend API's and front end SPA's. A graduate of the software engineering program at the Flatiron School of Denver. I'm currently working on refining and expanding my skill-sets involving varything things such as TypeScript, Docker, and scripting. I'm always looking to connect and converse on all things code.
 
-Skills: Vue.js / React.js / JavaScript / HTML / CSS / Flutter / Ruby / Rails / Node.js / Express.js / MongoDB / Firebase
+Skills:  React.js / JavaScript / TypeScript / HTML / CSS / Flutter / Ruby / Rails / Node.js / Express.js / MongoDB / Firebase / Docker / PostgreSQL
 
-- 🔭 I’m currently working on building and deploying my first MERN app.
-- 🌱 I’m currently learning Redux. 
+- 🔭 I’m currently working on scripts and docker.
+- 🌱 I’m currently learning vim. 
 - 👯 I’m looking to collaborate on anything at the moment. 
 - 📫 How to reach me: reneavila1993@gmail.com 
 - ⚡ Fun fact: I have a passion for Star Wars.  
