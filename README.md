@@ -5,11 +5,11 @@ Software engineer with experience working on backend API's and front end SPA's. 
 
 Skills:  React.js / JavaScript / TypeScript / HTML / CSS / Flutter / Ruby / Rails / Node.js / Express.js / MongoDB / Firebase / Docker / PostgreSQL
 
-- 🔭 I’m currently working on scripts and docker.
-- 🌱 I’m currently learning vim. 
-- 👯 I’m looking to collaborate on anything at the moment. 
+- 🔭 I’m currently working on a personal full stack project.
+- 🌱 I’m currently learning react native. 
+- 👯 I’m not currently looking to collaborate on projects outside of my own at the moment but open to conversation. 
 - 📫 How to reach me: reneavila1993@gmail.com 
-- ⚡ Fun fact: I have a passion for Star Wars.  
+- ⚡ Fun fact: I have a passion for Star Wars, ramen, and my shiba-inu Riku.  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EidorianAvi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/eidorianavi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/EidorianAvi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EidorianAvi)  
